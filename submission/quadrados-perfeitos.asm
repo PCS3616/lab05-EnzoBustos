@@ -1,4 +1,5 @@
 ; ----- Calcula o quadrado de N
+@/100
 JP 034 ; AC = N
 ML 02C ; AC = AC*2
 AD 030 ; AC = AC+1
